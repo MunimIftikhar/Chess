@@ -1,2 +1,2 @@
 # Chess
-my programming first project
+my first programming project
